@@ -1,3 +1,5 @@
+This branch branch is deprecated. Please switch to the branch called "main".
+
 # climate-data-extraction-tool
 
 Canadian Centre for Climate Services [Climate Data Extraction Tool](https://climate-change.canada.ca/climate-data)
