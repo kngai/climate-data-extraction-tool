@@ -1,6 +1,7 @@
-# This branch is now deprecated.
+# This branch is now deprecated
 
-Please switch to the branch called "main" for the latest developments.
+Please switch to the branch called "[main](https://github.com/ECCC-CCCS/climate-data-extraction-tool/tree/main)" for the latest developments.
+Only refer to this branch for releases up to `1.10.x`.
 
 # climate-data-extraction-tool
 
