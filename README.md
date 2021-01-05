@@ -1,4 +1,6 @@
-This branch branch is deprecated. Please switch to the branch called "main".
+# This branch is now deprecated.
+
+Please switch to the branch called "main" for the latest developments.
 
 # climate-data-extraction-tool
 
